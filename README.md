@@ -1,4 +1,6 @@
 # Deep_learning-HW3
-notebooks, and data related to deep learning course-homework 3
+Deep learning course
 
 Sharif Uni. --- Electrical Engineering Dept. --- Dr. Fatemizadeh
+
+Notebooks and data related to the third homework
